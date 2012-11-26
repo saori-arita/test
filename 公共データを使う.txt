@@ -1,18 +1,18 @@
-���\�[�X�Ǘ����@��
-�uGit�v�𗘗p���ĊǗ�����
-�@�iMercurial�͕׋�����ň����\�肪���邽�߁j
-Git�̊��̍쐬�͖q�삳��E���{����t�H���[�Ŋe���s���B
-���R�}���h���e���o���邱��
+＜ソース管理方法＞
+「Git」を利用して管理する
+　（Mercurialは勉強会内で扱う予定があるため）
+Gitの環境の作成は牧野さん・中本さんフォローで各自行う。
+→コマンドも各自覚えること
 
-���i�ߕ���
-3�l�`�[�������A�`�[�����Ƃɍ쐬
-	#1713�F�q�삳��A���{����A��������
-	#1714�F���R����A�N�䂭��A�L�c
+＜進め方＞
+3人チームを作り、チームごとに作成
+	#1713：牧野さん、中本さん、小室くん
+	#1714：小山さん、櫻井くん、有田
 
-���X�P�W���[����
-�EGit�̊��\�z�i11/29�j
-	�uhttp://git-scm.com/downloads�v����e���_�E�����[�h���邱��
-	GitHub for Windows�܂���Linux�ł���
-�E�P�ڂ̉ۑ芮���i11/29�j
-�E�Q�ڂ̉ۑ芮���i11/29or12/6�j
-�E���r���[�ƏC��[6�l�ŏW�܂��čs��]�i12/6�j
+＜スケジュール＞
+・Gitの環境構築（11/29）
+	「http://git-scm.com/downloads」から各自ダウンロードすること
+	GitHub for WindowsまたはLinuxでも可
+・１つ目の課題完成（11/29）
+・２つ目の課題完成（11/29or12/6）
+・レビューと修正[6人で集まって行う]（12/6）
